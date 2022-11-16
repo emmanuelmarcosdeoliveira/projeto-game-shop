@@ -3,4 +3,5 @@
 <h3> Estou em transição de carreira <h2> gostaria muito de conseguir meu 1° emprego. 👨‍💻<h2>  
 (https://1-projeto-game-shop.vercel.app/)
 
+<p><a href=“https://1-projeto-game-shop.vercel.app/“> Meu primeiro 1° Projeto </a></p>
 
