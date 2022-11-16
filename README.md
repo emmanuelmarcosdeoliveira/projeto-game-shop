@@ -9,7 +9,8 @@
  [Meu 1° Projeto Game-Shop](https://1-projeto-game-shop.vercel.app/) 
 
 
-<h4> A idéia inical do  do projeto foi,📝<br> 
+<h1>📝</h1>
+<h4> A idéia inical do  do projeto foi,<br> 
 Construir uma página de contato.<br>
 Com links das redes socias.<br>
 Um descritivo  sobre a loja.<br>
